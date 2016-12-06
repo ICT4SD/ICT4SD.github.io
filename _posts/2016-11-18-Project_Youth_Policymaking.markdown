@@ -35,6 +35,7 @@ Useful resources
 
 Project Team
 ------------
+[![Center for Data Science - New York University]({{ site.url }}/img/partners/lau.jpg)](http://www.lau.edu.lb/)  
 
 **Elie Samia**  
 Faculty advisor  
