@@ -2,8 +2,8 @@
 layout:     post
 header-img: "img/terrorism.jpg"
 title:      "Global Health Social Media Text Analytics"
-subtitle:   " --------------- "
-repository: "Terrorism_Analysis"
+subtitle:   "A real-time visualization of patterns and trends in global health issues."
+repository: "Health_SocialMedia_NLP"
 date:       2016-12-08 12:00:00
 author:     "UN-OICT Analytics"
 goal:		     "03"
