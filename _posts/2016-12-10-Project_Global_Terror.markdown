@@ -3,9 +3,8 @@ layout:     post
 header-img: "img/terrorism.jpg"
 title:      "Global Terrorism Analysis"
 subtitle:   "An interactive system for visual analysis of global terrorism."
-repository: "Terrorism_Analysis"
-date:       2016-11-10 12:00:00
-author:     "UN-OICT Analytics"
+date:       2016-12-10 12:00:00
+author:     "Xianzhi Cao, UN-OICT Analytics"
 goal:		     "16"
 partners:
   - partner: "New York University - Center for Data Science"
