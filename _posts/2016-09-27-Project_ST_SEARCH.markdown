@@ -51,6 +51,10 @@ Director, MS in Business Analytics Program
 Director, Center for Digital Transformation  
 Gabelli School of Business
 
+**Prof. Yilu Zhou, PhD - Fordham University**
+Associate Professor  
+Information Systems  
+Gabelli School of Business  
 
 ### Front-end web development
 [![Universidad de Santiago de Chile Departamento de Ingeniería Informática]({{ site.url }}/img/partners/santiago.jpg)](http://interaction.informatica.usach.cl/)

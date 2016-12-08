@@ -50,5 +50,9 @@ Director, MS in Business Analytics Program
 Director, Center for Digital Transformation  
 Gabelli School of Business
 
+**Prof. Yilu Zhou, PhD - Fordham University**
+Associate Professor  
+Information Systems  
+Gabelli School of Business  
 
 **This team is advised by staff members from the International Telecommunications Union and the United Nations Office of Information Technology who provide background as well as detailed information on the expected work and objectives.**
