@@ -1,6 +1,6 @@
 ---
 layout:     post
-header-img: "img/terrorism.jpg"
+header-img: "img/health_media.jpg"
 title:      "Global Health Social Media Text Analytics"
 subtitle:   "A real-time visualization of patterns and trends in global health issues."
 repository: "Health_SocialMedia_NLP"
@@ -20,7 +20,7 @@ References
 ------------
 
 
-- [*web application by another partner]
+- *web application by another partner
 
 
 
