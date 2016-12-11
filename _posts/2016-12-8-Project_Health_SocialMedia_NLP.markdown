@@ -14,6 +14,7 @@ partners:
 Project Objective
 ------------
 
+
 The goal of this project is to build a web-based, machine learning text analytic applications to gain insight into social media chatter about health issues. The application, when deployed can be used for real-time analysis of the text data from various social media sites to visualize patterns and trends in global health issues. The initial scope of the project is limited to ‘English’ speaking countries’ social media sites.
 
 **The project is seeking a partners for web front-end development.**
