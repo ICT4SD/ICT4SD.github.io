@@ -1,9 +1,9 @@
 ---
 layout:     post
 header-img: "img/health_media.jpg"
-title:      "Global Health Social Media Text Analytics"
-subtitle:   "A real-time visualization of patterns and trends in global health issues."
-repository: "Health_SocialMedia_NLP"
+title:      "Global Health Social Media Analytics"
+subtitle:   "Machine learning & text analytic applications to gain insight into social media chatter about global health issues."
+repository: "Health_SocialMedia"
 date:       2016-12-08 12:00:00
 author:     "UN-OICT Analytics"
 goal:		     "03"
@@ -14,14 +14,10 @@ partners:
 Project Objective
 ------------
 
-The goal of this project is to build a web-based*, machine learning text analytic application to analyze and gain insight into social media chatter about health. The application, when deployed can be used for real-time analysis of the text data from various social media sites to visualize patterns and trends in global health issues. The initial scope of the project is limited to ‘English’ speaking countries’ social media sites.
 
-References
-------------
+The goal of this project is to build a web-based, machine learning text analytic applications to gain insight into social media chatter about health issues. The application, when deployed can be used for real-time analysis of the text data from various social media sites to visualize patterns and trends in global health issues. The initial scope of the project is limited to ‘English’ speaking countries’ social media sites.
 
-
-- *web application by another partner
-
+**The project is seeking a partners for web front-end development.**
 
 
 Project Team
@@ -41,4 +37,4 @@ Associate Professor
 Information Systems  
 Gabelli School of Business  
 
-**This team is advised by staff members from the International Telecommunications Union and the United Nations Office of Information Technology who provide background as well as detailed information on the expected work and objectives.**
+**This team is advised by staff members from the United Nations Secretariat who provide background as well as detailed information on the expected work and objectives.**
