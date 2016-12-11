@@ -2,9 +2,10 @@
 layout:     post
 header-img: "img/terrorism.jpg"
 title:      "Global Terrorism Analysis"
-subtitle:   "An interactive system for visual analysis of global terrorism.  -- Joint Porject with United Nations"
-date:       2016-12-11 12:00:00
-author:     "Xianzhi Cao (xc965), Caroline Roper (cer446)"
+subtitle:   "An interactive system for visual analysis of global terrorism."
+date:       2016-11-11 12:00:00
+author:     "UN OICT Analytics"
+repository: "Terrorism_Analysis"
 goal:		     "16"
 partners:
   - partner: "New York University - Center for Data Science"
@@ -40,6 +41,3 @@ Master's student - Center for Data Science
 
 **Caroline Roper - New York University**  
 Master's student - Center for Data Science
-
-
-repository: "Terrorism_Analysis"
