@@ -45,8 +45,8 @@ Project Team
 
 **The project is seeking partners for:  
  - survey design and  
- - technology platform for implementing SMS surveys
- - wearable computers, sensors, Internet of Things
+ - technology platform for implementing SMS surveys  
+ - wearable computers, sensors, Internet of Things  
  - financial technologies**
  
 
