@@ -23,7 +23,13 @@ This is done in support of [Sustainable Development Goal 5](http://www.un.org/su
 
 "Living labs" are often used in developed countries to understand social behavior towards new policies and products. This project attempts to develop a set of tools and methodologies which are also suitable for living labs in developing and least-developed countries.  
 
-As an initial deliverable, the project will focus on implementing a methodology to survey a large population sending randomized text messages (sms).
+
+Useful resources
+------------
+
+Deliverable 1) As an initial deliverable, the project will focus on implementing a methodology to survey a large population sending randomized text messages (sms).
+
+Deliverable 2) Further deliverables are expected to make use of wearable computing devices and sensors or other connected "things" (see Internet of Things or IoT), as well as data from financial transactions.
 
 
 Useful resources
@@ -39,7 +45,9 @@ Project Team
 
 **The project is seeking partners for:  
  - survey design and  
- - technology platform for implementing SMS surveys**
+ - technology platform for implementing SMS surveys
+ - wearable computers, sensors, Internet of Things
+ - financial technologies**
 
 [![American Mothers]({{ site.url}}/img/partners/americanmothers.png)](https://americanmothers.org)
 
