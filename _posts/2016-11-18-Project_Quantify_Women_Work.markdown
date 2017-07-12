@@ -9,6 +9,7 @@ author:     "UN-OICT Analytics"
 goal:		    "05"
 partners:   
   - partner: "American Mothers"
+  - partner: "Rutgers University - InfoSeeking Lab"
 ---
 
 Project Objective
@@ -50,7 +51,13 @@ Project Team
  - financial technologies**
  
 
-[![American Mothers]({{ site.url}}/img/partners/americanmothers.png)](https://americanmothers.org)
+[![American Mothers]({{ site.url}}/img/partners/americanmothers.png)](https://americanmothers.org)  
+
+[![The InfoSeeking Lab at the School of Communication & Information - Rutgers University]({{ site.url }}/img/partners/rutgers.png)](http://www.infoseeking.org/)
+
+**Dr. Chirag Shah - Rutgers University**  
+Associate Professor of Information Science  
+Affiliate member of Computer Science
 
 
 **This team is advised by staff members from the United Nations Department of Economic and Social Affairs who provide background as well as detailed information on the expected work and objectives.**
